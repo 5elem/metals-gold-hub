@@ -1,0 +1,13 @@
+{
+  "date": "2026-09-23",
+  "timezone": "Europe/Tallinn",
+  "metal": "Au",
+  "card_count": 5,
+  "cards": [
+    {"rank": 1, "significance": "high", "file": "01-reuters-gold-higher-for-longer.md", "id": "2026-09-23-01", "source_url": "https://www.reuters.com/world/india/gold-lacklustre-higher-for-longer-rate-outlook-weighs-sentiment-2026-09-23/"},
+    {"rank": 2, "significance": "high", "file": "02-fed-collins-rate-hike.md", "id": "2026-09-23-02", "source_url": "https://www.kitco.com/news/off-the-wire/2026-09-22/feds-collins-says-she-supported-rate-hike-warns-elevated-inflation"},
+    {"rank": 3, "significance": "high", "file": "03-reuters-dollar-two-month-high.md", "id": "2026-09-23-03", "source_url": "https://www.reuters.com/world/asia-pacific/dollar-holds-near-2-month-high-markets-weigh-rate-hikes-iran-diplomacy-2026-09-23/"},
+    {"rank": 4, "significance": "medium", "file": "04-barrick-mali-strike-threat.md", "id": "2026-09-23-04", "source_url": "https://www.reuters.com/business/world-at-work/multiple-unions-threaten-strikes-barricks-flagship-mali-gold-mine-documents-show-2026-09-18/"},
+    {"rank": 5, "significance": "medium", "file": "05-kitco-live-au-range.md", "id": "2026-09-23-05", "source_url": "https://www.kitco.com/price"}
+  ]
+}
