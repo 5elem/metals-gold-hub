@@ -7,6 +7,6 @@
   "digest": "digests/2026-09-24/digest.md",
   "sources": "digests/2026-09-24/sources.md",
   "path": "digests/2026-09-24/",
-  "updated_at": "2026-09-24T09:30:00+03:00",
-  "note": "Site agents consume digest as-is; do not add sources or re-rank."
+  "updated_at": "2026-09-24T14:05:00+03:00",
+  "note": "Human-readable article summaries; site agents consume as-is."
 }
