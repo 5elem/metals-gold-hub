@@ -1,12 +1,12 @@
 {
-  "date": "2026-10-06",
+  "date": "2026-10-07",
   "timezone": "Europe/Tallinn",
   "metal": "Au",
   "author": "METALS NEWS",
   "format": "digest",
-  "digest": "digests/2026-10-06/digest.md",
-  "sources": "digests/2026-10-06/sources.md",
-  "path": "digests/2026-10-06/",
-  "updated_at": "2026-10-06T10:00:33+03:00",
+  "digest": "digests/2026-10-07/digest.md",
+  "sources": "digests/2026-10-07/sources.md",
+  "path": "digests/2026-10-07/",
+  "updated_at": "2026-10-07T10:06:36+03:00",
   "note": "Human-readable article summaries; site agents consume as-is."
 }
