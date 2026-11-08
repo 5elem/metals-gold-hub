@@ -1,0 +1,33 @@
+# Источники — 2026-11-08
+
+- Kitco — текстовые котировки (рынок закрыт; last update 2:56:16 AM EST, 08.11 = 09:56 EET): https://www.kitco.com/price/precious-metals/text-quotes
+- gold-api.com — спот Au/Ag/Pt, 08.11 09:56 Tallinn (07:56 UTC): https://api.gold-api.com/price/XAU
+- Investing.com — XAU/USD (закрытие 06.11): https://www.investing.com/currencies/xau-usd
+- Investing.com — XAU/USD historical data: https://www.investing.com/currencies/xau-usd-historical-data
+- Reuters / Economic Times — Gold drops as strong US payrolls boost dollar, yields (07.11, 09:40 IST; снимок Reuters в пятницу 1:54 p.m. ET): https://m.economictimes.com/markets/commodities/news/gold-drops-as-strong-us-payrolls-boost-dollar-yields/amp_articleshow/135626183.cms
+- Reuters / Business Recorder — перепечатка пятничного утреннего снимка (обновлено 08.11, 02:33): https://www.brecorder.com/news/40447916
+- Yahoo Finance — Ice US Dollar Index (DX-Y.NYB), закрытие 06.11: https://finance.yahoo.com/quote/DX-Y.NYB/history/
+- Yahoo Finance — CBOE 10-Year Treasury Yield (^TNX), закрытие 06.11: https://finance.yahoo.com/quote/%5ETNX/history/
+- CNBC — Risk of Iran war escalation remains high despite Democratic sweep (07.11, обновлено 5:17 p.m. EST): https://www.cnbc.com/2026/11/07/iran-war-midterm-election-oil-price-trump.html
+- The Guardian — Strait of Hormuz could reopen as part of Qatari plan for Iran nuclear inspections (07.11): https://www.theguardian.com/world/2026/nov/07/strait-of-hormuz-qatar-plan-iran-nuclear-inspections
+- The Independent — Strait of Hormuz / Qatar plan (07.11): https://www.independent.co.uk/news/world/middle-east/strait-hormuz-qatar-us-iran-b3080920.html
+- AP / Business Standard — Iran reviewing Qatar’s proposals on nuclear deal (07.11): https://www.business-standard.com/world-news/iran-reviewing-qatar-s-proposals-on-nuclear-deal-with-us-amid-war-126110700056_1.html
+- NHK World — Qatar mediators remain in close coordination (08.11): https://www3.nhk.or.jp/nhkworld/news/20261108de72495/
+- CENTCOM — US forces disable cargo vessel attempting to violate naval blockade (07.11): https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4644273/us-forces-disable-cargo-vessel-attempting-to-violate-naval-blockade/
+- CENTCOM — CENTCOM launches task force to disrupt Iranian ground transit routes (Task Force Iron Gate, 07.11): https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4644250/centcom-launches-task-force-to-disrupt-iranian-ground-transit-routes-supporting/
+- Reuters / Investing.com — US military says it disabled cargo vessel in Gulf of Oman (07.11, обновлено 08.11): https://www.investing.com/news/commodities-news/us-military-says-it-disabled-cargo-vessel-in-gulf-of-oman-5010055
+- Reuters / The Hindu — US military says it disabled cargo vessel in Gulf of Oman (08.11): https://www.thehindu.com/news/international/us-military-says-it-disabled-cargo-vessel-in-gulf-of-oman/article71679590.ece
+- CNBC — US launches task force targeting Iran land commerce (07.11): https://www.cnbc.com/2026/11/07/iran-us-task-force-land-commerce.html
+- Al Jazeera — US launches task force to disrupt Iran’s land-based supply routes (08.11): https://www.aljazeera.com/news/2026/11/8/us-launches-task-force-to-disrupt-irans-land-based-supply-routes
+- ABC News — Iran Strait of Hormuz update: explosions, talks, missile-range announcement (08.11): https://www.abc.net.au/news/2026-11-08/iran-strait-of-hormuz-update-explosions-talks/107360730
+- Investing.com — Why gold is losing its shine: Goldman breaks down the recent selloff (07.11; в тексте — данные CFTC COT): https://www.investing.com/news/commodities-news/why-gold-is-losing-its-shine-goldman-breaks-down-the-recent-selloff-5010022
+- FXStreet — Gold Weekly Forecast: Post-midterm elections relief rally loses momentum (06.11, 15:44 GMT): https://www.fxstreet.com/analysis/gold-weekly-forecast-post-midterm-elections-relief-rally-loses-momentum-202611061544
+- Xinhua — US oil prices settle mixed (датлайн 06.11, штамп страницы 07.11): https://english.news.cn/20261107/0161c4c31dc14d5683cdf57f6c71f9a8/c.html
+- CNBC — Oil price today: Brent / WTI (06.11): https://www.cnbc.com/2026/11/06/oil-price-today-brent-wti.html
+- Euronext / Reuters — Crude gains on worries about renewed US attacks on Iran (06.11): https://live.euronext.com/en/financial-news/crude-gains-worries-about-renewed-us-attacks-iran
+- BLS — CPI release schedule (10.11.2026, 08:30 ET = 15:30 Tallinn): https://www.bls.gov/schedule/news_release/cpi.htm
+- BLS — PPI release schedule (13.11.2026, 08:30 ET = 15:30 Tallinn): https://www.bls.gov/schedule/news_release/ppi.htm
+- FRED — Unemployment Insurance Weekly Claims calendar (12.11.2026): https://fred.stlouisfed.org/releases/calendar?rid=180&y=2026
+- Richmond Fed — President Tom Barkin speaks, Greer, S.C. (09.11.2026, 12:15 p.m. ET = 19:15 Tallinn): https://www.richmondfed.org/press_room/media_advisories/2026/20261102_barkin_greer
+- Federal Reserve Board — November 2026 calendar (в т.ч. Veterans Day 11.11): https://www.federalreserve.gov/newsevents/2026-november.htm
+- Dallas Coin Store — Weekend gold & silver report (07.11; пятничные биды Kitco): https://www.dallascoinstore.com/post/weekend-gold-silver-report-november-7-2026
